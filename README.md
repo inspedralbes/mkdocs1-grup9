@@ -3,6 +3,7 @@ mkdocs1-grup9 created by GitHub Classroom
 
 ## Integrants del grup:
 Oscar Leal
+
 Yenifer Wu Zhang
 
 ## Com hem fet la pràctica?
@@ -14,3 +15,4 @@ Yenifer Wu Zhang
 6. A partir d'aqui treballarem de manera que a l'hora de fer els commits i push, no ens doni conflictes 
 7. Per veure com ha quedat la pàgina web de mkdocs hem de posar la comanda $mkdocs serve -a 0.0.0.0:8000
 8. I ens ho connectem amb el navegador de la màquina local posant el ip de la màquina virtual IP_MAQUINA_VIRTUAL:8000
+9. Una vegada comprovat hem acabat tot, farem $mkdocs build -d /var/www/html i tindrem la pagina muntada ja en el servidor apache
