@@ -1,8 +1,10 @@
-# Welcome to MkDocs
+# Benvinguts a Institut Pedralbes
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![foto_insti](https://img.beteve.cat/wp-content/uploads/2019/10/011019btv73nouinstitutpedralbes_3-1024x576.jpg)
 
+## Mòduls de DAW (Desenvolupament d'Aplicacions Web)
+Primer de tot, feu una ullada als nostres mòduls:
 
-
-## Professors
- * [m06](m06.md)
+ * [M06 - Desenvolupament Web en entorn Client](m06.md)
+ * [M07 - Desenvolupament Web en entorn Servidor](m07.md)
+ * [M08 - Desplegament d'aplicacions web](m08.md)
