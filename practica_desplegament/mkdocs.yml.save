@@ -1,0 +1,8 @@
+site_name: Institut Pedralbes
+extra:
+  homepage: https://example.com
+nav:
+  - M06: m06.md
+  - M07: m07.md
+  - M08: m08.md
+ 
