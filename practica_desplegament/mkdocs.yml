@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: Institut Pedralbes
+output_dir: docs
+navbar:
+  title: Institut Pedralbes
+  left:
+    - text: Home
+output:
+  html_document:
+    theme: yeti
