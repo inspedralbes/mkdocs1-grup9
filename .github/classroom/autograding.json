@@ -31,9 +31,9 @@
       "points": 1
     },
     {
-      "name": "Defineix barra navegaci&#243;",
+      "name": "Defineix barra navegacio",
       "setup": "",
-      "run": "grep -R \"nav:\" *.yml",
+      "run": "grep -R \"nav:\" *",
       "input": "",
       "output": "",
       "comparison": "included",
