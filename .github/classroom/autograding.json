@@ -3,7 +3,7 @@
     {
       "name": "Hi ha fitxer README",
       "setup": "",
-      "run": "find . -name \"README.md\"",
+      "run": "find . -iname \"README.md\"",
       "input": "",
       "output": "README",
       "comparison": "included",
