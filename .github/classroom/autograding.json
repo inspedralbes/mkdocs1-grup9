@@ -1,21 +1,11 @@
 {
   "tests": [
     {
-      "name": "Existeix gitignore",
-      "setup": "",
-      "run": "find . -name \".gitignore\"",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 1,
-      "points": 1
-    },
-    {
-      "name": "Existeix README.md",
+      "name": "Hi ha fitxer README",
       "setup": "",
       "run": "find . -name \"README.md\"",
       "input": "",
-      "output": "",
+      "output": "README",
       "comparison": "included",
       "timeout": 1,
       "points": 1
