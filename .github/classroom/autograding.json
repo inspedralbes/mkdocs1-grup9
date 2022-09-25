@@ -19,6 +19,16 @@
       "comparison": "included",
       "timeout": 1,
       "points": 1
+    },
+    {
+      "name": "el mkdocs.yml defineix una barra de navegaci&#243;",
+      "setup": "",
+      "run": "grep -R \"nav:\" *",
+      "input": "",
+      "output": "mkdocs.yml:nav:",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
     }
   ]
 }
