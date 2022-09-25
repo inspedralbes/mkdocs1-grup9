@@ -9,6 +9,16 @@
       "comparison": "included",
       "timeout": 1,
       "points": 1
+    },
+    {
+      "name": "Existeix README.md",
+      "setup": "",
+      "run": "find . -name \"README.md\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
     }
   ]
 }
