@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "Hi ha fitxer README",
+      "setup": "",
+      "run": "find . -iname \"README.md\"",
+      "input": "",
+      "output": "README",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Hi ha fitxer .gitignore",
+      "setup": "",
+      "run": "find . -name \".gitignore\"",
+      "input": "",
+      "output": ".gitignore",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Defineix una barra navegacio",
+      "setup": "",
+      "run": "grep -R \"nav:\" *",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    }
+  ]
+}
